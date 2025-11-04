@@ -285,4 +285,4 @@ BuildScripts = [
   'PackageScript'
 ]
 
-builder.Build(BuildScripts, { 'MMSPlugin': MMSPlugin })
+builder.Build(BuildScripts, { 'MMSPlugin': MMSPlugin }
